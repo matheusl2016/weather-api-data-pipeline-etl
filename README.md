@@ -10,8 +10,6 @@ O objetivo é construir um **pipeline de dados automatizado**, capaz de:
 - Armazenar as informações em um banco de dados local (**SQLite**);
 - Gerar visualizações analíticas (gráficos de temperatura).
 
-Este projeto foi desenvolvido como uma aplicação prática para **Analistas de Dados Jr.** que desejam demonstrar domínio em **APIs, ETL, manipulação e visualização de dados.**
-
 ---
 
 ## Tecnologias Utilizadas
@@ -80,8 +78,6 @@ The goal is to build an **automated data pipeline** capable of:
 - Cleaning and structuring the collected data;
 - Storing the data in a local **SQLite** database;
 - Generating analytical visualizations such as temperature charts.
-
-This project was developed as a practical example for **Junior Data Analysts** who want to demonstrate proficiency in **APIs, ETL processes, data manipulation, and visualization**.
 
 ---
 
